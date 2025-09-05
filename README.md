@@ -42,6 +42,7 @@ Kshitij, do you want to play the game? (y/n): n
 📦 Rock-Paper-Scissors
  ┣ 📜 rps_game.py    # Main game file
  ┗ 📜 README.md      # Game description & instructions
-📜 License
 
+ 
+📜 License
 This project is open-source and free to use for learning purposes.
