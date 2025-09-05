@@ -37,6 +37,7 @@ You win!
 
 Kshitij, do you want to play the game? (y/n): n
 👋 Thank you for playing!
+```
 📂 File Structure
 📦 Rock-Paper-Scissors
  ┣ 📜 rps_game.py    # Main game file
